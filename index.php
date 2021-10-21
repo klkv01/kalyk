@@ -93,7 +93,7 @@ body {
 </head>
 <body>
 
-<h2 style="color:black;">DASTAN ERKINBER UULU</h2>
+<h2 style="color:black;">DASTAN ERKINBEK UULU</h2>
 <p style="color:white;"> This is my first website </p>
 <p style="color:white;">Im 18 years old.Im from Issyk-Kol village of "Baet".
 Now Im studying at Ala-Too College.I have an average family of 4 people .
